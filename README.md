@@ -1,2 +1,2 @@
-# Backend_Study
-Backend_Study using Node.js Express MongoDB
+# MERN_Tutorial
+MERN_Tutorial using React Node.js Express MongoDB
